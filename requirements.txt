@@ -1,3 +1,4 @@
+sudo apt install python3 python3-pip python3-venv build-essential libsnappy-dev zlib1g-dev libbz2-dev libgflags-dev liblz4-dev libgmp-dev libsecp256k1-dev
 asyncio
 logging
 subprocess
