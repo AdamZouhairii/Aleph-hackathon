@@ -48,7 +48,7 @@ We welcome contributions from the community to enhance and improve our platform.
 
 ## Contact Us
 
-If you have any questions, feedback, or suggestions, feel free to reach out to us. You can contact the project team via email at [adam@mail.com](zouhairiiadam@gmail.com) and [hugo@mail.com](hugolebelzic@protonmail.com).
+If you have any questions, feedback, or suggestions, feel free to reach out to us. You can contact the project team via email at [adam@mail.com](zouhairiiadam@gmail.com), [hugo@mail.com](hugolebelzic@protonmail.com) and [koyan@mail.com](koyan.laures-ribal@epita.fr).
 
 Let's revolutionize the world of AI together with decentralized innovation! 🚀
 
